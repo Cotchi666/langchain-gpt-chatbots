@@ -49,3 +49,13 @@ chain.invoke("where did harrison work?")
 
 ![plot](./assets/rag_search.png)
 
+
+
+## Agent:
+
+![plot](./assets/agent.png)
+
+## Memory:
+
+![plot](./assets/memory.png)
+
